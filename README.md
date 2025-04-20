@@ -32,5 +32,5 @@
 ---
 
 ** Контакти для зв’язку ** 
-emain: lyubomirpedchenko@gmail.com
+email: lyubomirpedchenko@gmail.com
 Telegram: @Pedchenko_Lyubomir(https://t.me/Pedchenko_Lyubomir)
